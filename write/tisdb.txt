@@ -1,0 +1,1488 @@
+ACC C10orf54 rho = 0.361, p = 0.00117
+ACC CD27 rho = 0.207, p = 0.0675
+ACC CD276 rho = 0.117, p = 0.304-5.0 “2.5
+ACC CD28 rho = 0.178, p = 0.116
+ACC CD40 rho = 0.225, p = 0.0465
+ACC CD48 rho = 0.142, p = 0.21
+ACC CD70 rho = 0.08, p = 0.482-2.5
+ACC CD80 rho = -0.002, p = 0.986
+ACC CD86 rho = 0.025, p = 0.827
+ACC CXCL12 rho = 0.173, p = 0.127
+ACC CXCR4 rho = -0.005, p = 0.967
+ACC ENTPD1 rho = -0.267, p = 0.0177
+ACC HHLA2 rho = 0.122, p = 0.284
+ACC ICOS rho = 0.201, p = 0.0756
+ACC ICOSLG rho = 0.28, p = 0.0126
+ACC IL2RA rho = 0.269, p = 0.0166
+ACC IL6 rho = -0.059, p = 0.605
+ACC IL6R rho = 0.256, p = 0.0228
+ACC KLRK1 rho = 0.083, p = 0.466
+ACC MICB rho = 0.089, p = 0.436
+ACC NT5E rho = 0.219, p = 0.0521-5.0 “2.5
+ACC PVR rho = -0.143, p = 0.209
+ACC RAET1E rho = -0.241, p = 0.033
+ACC TMEM173 rho = 0.161, p = 0.156
+ACC TNFRSF14 rho = -0.027, p = 0.811
+ACC TNFRSF18 rho = 0.291, p = 0.00959
+ACC TNFRSF25 rho = -0.143, p = 0.208
+ACC TNFRSF4 rho = -0.096, p = 0.401
+ACC TNFRSF8 rho = 0.024, p = 0.831
+ACC TNFRSF9 rho = 0.184, p = 0.104
+ACC TNFSF13 rho = 0.169, p = 0.135
+ACC TNFSF13B rho = -0.372, p = 0.000799
+ACC TNFSF14 rho = 0.378, p = 0.000637
+ACC TNFSF4 rho = -0.027, p = 0.813
+ACC TNFSF9 rho = 0.07, p = 0.538
+ACC ULBP1 rho = 0.052, p = 0.646
+BLCA C10orf54 0.06040.093, prho
+BLCA CD27 rho = 0.329, p = 1.28e-11
+parse error BLCA+CD276.jpg
+BLCA CD276 None
+BLCA CD28 rho = 0.407, p < 2.2e-16
+BLCA CD40 rho = 0.148, p = 0.00271
+BLCA CD40LG rho = 0.242, p = 8.32e-07
+parse error BLCA+CD48.jpg
+BLCA CD48 None
+BLCA CD70 rho = 0.369, p = 1.64e-14
+parse error BLCA+CD80.jpg
+BLCA CD80 None
+parse error BLCA+CD86.jpg
+BLCA CD86 None
+BLCA CXCL12 rho = 0.652, p < 2.2e-16
+BLCA CXCR4 rho = 0.451, p < 2.2e-16
+BLCA ENTPD1 rho = 0.576, p < 2.2e-16
+BLCA ICOS rho = 0.237, p = 1.41e-06
+BLCA ICOSLG rho = 0.136, p = 0.00604
+BLCA IL2RA rho = 0.414, p < 2.2e-16
+BLCA IL6 rho = 0.452, p < 2.2e-16
+parse error BLCA+IL6R.jpg
+BLCA IL6R None
+parse error BLCA+KLRC1.jpg
+BLCA KLRC1 None
+BLCA KLRK1 rho = 0.245, p = 5.75e-07
+BLCA LTA 0.333, prho
+BLCA MICB rho = 0.118, p = 0.0173
+BLCA NT5E rho = 0.33, p = 1.08e-11
+BLCA PVR rho = 0.181, p = 0.000237
+parse error BLCA+RAET1E.jpg
+BLCA RAET1E None
+BLCA TMEM173 rho = 0.357, p = 1.39e-13
+BLCA TMIGD2 rho = -0.019, p = 0.704
+BLCA TNFRSF13B rho = 0.295, p = 1.41e-09
+BLCA TNFRSF13C rho = 0.024, p = 0.626
+parse error BLCA+TNFRSF14.jpg
+BLCA TNFRSF14 None
+BLCA TNFRSF17 rho = 0.312, p = 1.43e-10
+BLCA TNFRSF18 rho = 0.231, p = 2.68e-06
+BLCA TNFRSF25 rho = -0.197, p = 6.33e-05
+BLCA TNFRSF4 rho = 0.399, p < 2.2e-16
+parse error BLCA+TNFRSF8.jpg
+BLCA TNFRSF8 None
+BLCA TNFRSF9 rho = 0.41, p < 2.2e-165.0
+BLCA TNFSF13 rho = 0.006, p = 0.907
+BLCA TNFSF13B rho = 0.413, p < 2.2e-16
+parse error BLCA+TNFSF15.jpg
+BLCA TNFSF15 None
+parse error BLCA+TNFSF4.jpg
+BLCA TNFSF4 None
+BLCA TNFSF9 rho = 0.324, p = 2.6e-11
+BLCA ULBP1 rho = 0.129, p = 0.00918
+parse error BRCA+C10orf54.jpg
+BRCA C10orf54 None
+BRCA CD27 rho = -0.007, p
+BRCA CD276 rho = 0.437, p < 2.2e-16
+parse error BRCA+CD28.jpg
+BRCA CD28 None
+BRCA CD40 rho = 0.116, p = 0.00011
+BRCA CD40LG rho = 0.005, p = 0.866
+BRCA CD48 rho = 0.023, p = 0.453
+BRCA CD70 rho = 0.22, p = 1.91e-13
+BRCA CD80 rho = 0.321, p < 2.2e-16
+parse error BRCA+CD86.jpg
+BRCA CD86 None
+parse error BRCA+CXCL12.jpg
+BRCA CXCL12 None
+BRCA CXCR4 rho = 0.143, p = 1.89e-06
+BRCA ENTPD1 rho = 0.284, p = 8.95e-22
+BRCA ICOS rho = 0.112, p = 0.000213
+BRCA ICOSLG rho = 0.054, p = 0.0723
+BRCA IL2RA rho = 0.235, p = 3.96e-15
+BRCA IL6 rho = 0.018, p = 0.556
+BRCA IL6R rho = 0.148, p = 8.68e-07
+parse error BRCA+KLRC1.jpg
+BRCA KLRC1 None
+BRCA KLRK1 rho = -0.047, p = 0.115
+BRCA LTA rho = 0.085, p = 0.00467
+BRCA MICB rho = 0.051, p = 0.0884
+BRCA NT5E rho = 0.555, p < 2.2e-16
+parse error BRCA+PVR.jpg
+BRCA PVR None
+BRCA RAET1E rho = 0.079, p = 0.00908
+BRCA TMEM173 rho = 0.151, p = 5.39e-07
+BRCA TNFRSF13B rho = -0.084, p = 0.0055
+BRCA TNFRSF13C rho = -0.069, p = 0.0215
+parse error BRCA+TNFRSF14.jpg
+BRCA TNFRSF14 None
+BRCA TNFRSF17 rho = -0.013, p = 0.673
+BRCA TNFRSF18 rho = -0.099, p = 0.00108
+BRCA TNFRSF25 rho = -0.144, p = 1.56e-06
+parse error BRCA+TNFRSF4.jpg
+BRCA TNFRSF4 None
+BRCA TNFRSF8 rho = 0.054, p = 0.0724
+BRCA TNFRSF9 rho = 0.32, p < 2.2e-16
+BRCA TNFSF13 0CSMD2 ex-3rho = -0.127, p
+parse error BRCA+TNFSF13B.jpg
+BRCA TNFSF13B None
+BRCA TNFSF14 rho = 0.121, p = 6.01e-05
+BRCA TNFSF15 rho = 0.296, p = 6.79e-24
+BRCA TNFSF4 rho = 0.563, p < 2.2e-16
+parse error BRCA+TNFSF9.jpg
+BRCA TNFSF9 None
+parse error BRCA+ULBP1.jpg
+BRCA ULBP1 None
+CESC C10orf54 rho = -0.046, p = 0.421
+parse error CESC+CD27.jpg
+CESC CD27 None
+CESC CD276 rho = 0.114, p = 0.0473
+parse error CESC+CD28.jpg
+CESC CD28 None
+parse error CESC+CD40.jpg
+CESC CD40 None
+CESC CD40LG rho = 0.158, p = 0.00552
+parse error CESC+CD48.jpg
+CESC CD48 None
+CESC CD70 rho = -0.037, p = 0.52
+CESC CD80 rho = 0.073, p = 0.205
+CESC CD86 rho = 0.036, p = 0.527
+CESC CXCL12 rho = 0.46, p < 2.2e-16
+CESC CXCR4 rho = 0.234, p = 3.87e-05
+parse error CESC+ENTPD1.jpg
+CESC ENTPD1 None
+CESC HHLA2 rho = 0.078, p = 0.175
+CESC ICOS rho = -0.009, p = 0.872
+parse error CESC+ICOSLG.jpg
+CESC ICOSLG None
+CESC IL2RA rho = 0.096, p = 0.0939
+CESC IL6 rho = 0.114, p = 0.0463
+CESC IL6R rho = 0.044, p = 0.441
+CESC KLRC1 rho = -0.114, p = 0.0464
+CESC KLRK1 rho = -0.063, p = 0.271
+CESC LTA rho = 0.019, p = 0.738
+CESC MICB rho = -0.092, p = 0.11
+CESC NT5E rho = 0.243, p = 1.9e-05
+parse error CESC+PVR.jpg
+CESC PVR None
+CESC RAET1E rho = -0.077, p = 0.181
+CESC TMEM173 rho = 0.129, p = 0.0239
+CESC TMIGD2 rho = -0.086, p = 0.135
+parse error CESC+TNFRSF13B.jpg
+CESC TNFRSF13B None
+CESC TNFRSF13C rho = -0.028, p = 0.627
+CESC TNFRSF14 -2.5 0.0CSMD2_ex= 0.009, prho-5.0
+CESC TNFRSF17 rho = 0.201, p = 0.00041
+CESC TNFRSF18 rho = -0.195, p = 0.000634
+CESC TNFRSF25 rho = -0.052, p = 0.362
+CESC TNFRSF4 rho = 0.179, p = 0.00173
+CESC TNFRSF8 rho = 0.163, p = 0.0044
+CESC TNFRSF9 rho = -0.033, p = 0.566
+CESC TNFSF13 rho = 0.145, p = 0.0111
+CESC TNFSF13B rho = 0.043, p = 0.449
+CESC TNFSF14 rho = 0.019, p = 0.744
+CESC TNFSF15 rho = 0.193, p = 0.000724
+CESC TNFSF4 rho = 0.273, p = 1.31e-06
+CESC TNFSF9 rho = -0.031, p = 0.594
+parse error CESC+ULBP1.jpg
+CESC ULBP1 None
+CHOL C10orf54 rho = -0.238, p = 0.161
+CHOL CD27 rho = 0.054, p = 0.756
+CHOL CD276 rho = 0.055, p = 0.75
+CHOL CD28 rho = -0.017, p = 0.922-2.5
+CHOL CD40 rho = -0.183, p = 0.284
+CHOL CD40LG rho = -0.202, p = 0.237
+CHOL CD48 rho = -0.01, p = 0.954
+CHOL CD70 rho = -0.033, p = 0.847
+CHOL CD80 rho = -0.075, p = 0.663
+CHOL CD86 rho = 0.011, p = 0.95
+CHOL CXCL12 rho = -0.275, p = 0.105
+CHOL CXCR4 rho = 0.018, p = 0.917
+CHOL ENTPD1 rho = 0.396, p = 0.0173
+CHOL HHLA2 rho = 0.329, p = 0.0508
+CHOL ICOS rho = -0.169, p = 0.322
+CHOL ICOSLG rho = -0.101, p = 0.558
+CHOL IL2RA rho = 0.147, p = 0.391
+CHOL IL6 rho = -0.021, p = 0.902
+CHOL IL6R rho = 0.021, p = 0.905
+CHOL KLRC1 rho = -0.175, p = 0.305
+CHOL KLRK1 rho = -0.049, p = 0.774
+CHOL LTA rho = 0.032, p = 0.853-2.5
+CHOL MICB rho = -0.27, p = 0.111
+CHOL NT5E rho = -0.032, p = 0.853-2.5
+CHOL PVR rho = -0.141, p = 0.41
+CHOL TMEM173 rho = 0.272, p = 0.109
+CHOL TMIGD2 rho = -0.174, p = 0.309
+CHOL TNFRSF13B rho = -0.169, p = 0.323
+CHOL TNFRSF13C rho = -0.135, p = 0.432-2.5
+CHOL TNFRSF14 rho = 0.061, p = 0.723
+CHOL TNFRSF17 rho = 0.099, p = 0.564
+CHOL TNFRSF18 rho = -0.016, p = 0.928
+CHOL TNFRSF25 rho = 0.098, p = 0.569
+CHOL TNFRSF4 rho = 0.264, p = 0.12
+CHOL TNFRSF8 rho = 0.169, p = 0.324
+CHOL TNFRSF9 rho = 0.167, p = 0.33
+CHOL TNFSF13 rho = 0.129, p = 0.452
+CHOL TNFSF13B rho = 0.006, p = 0.971
+CHOL TNFSF14 rho = -0.288, p = 0.0887
+CHOL TNFSF15 rho = 0.053, p = 0.759
+CHOL TNFSF4 rho = 0.086, p = 0.616-2.5
+CHOL TNFSF9 rho = 0.229, p = 0.179
+CHOL ULBP1 rho = -0.427, p = 0.01
+COAD C10orf54 rho = 0.352, p = 9.7e-15
+COAD CD27 rho = 0.255, p = 3.37e-08
+COAD CD276 rho = 0.347, p = 2.45e-14
+parse error COAD+CD28.jpg
+COAD CD28 None
+COAD CD40 3.3e-16CSMD2_ex= 0.368, p =rho
+COAD CD40LG rho = 0.116, p = 0.0127
+parse error COAD+CD48.jpg
+COAD CD48 None
+COAD CD70 rho = 0.346, p = 3.16e-14
+COAD CD80 rho = 0.332, p = 3.62e-13
+COAD CD86 rho = 0.451, p < 2.2e-16
+COAD CXCL12 rho = 0.428, p < 2.2e-16
+COAD CXCR4 rho = 0.364, p = 7.46e-16
+COAD ENTPD1 rho = 0.451, p < 2.2e-16
+COAD HHLA2 rho = -0.171, p = 0.000245
+COAD ICOS rho = 0.272, p = 3.45e-09
+COAD ICOSLG rho = 0.022, p = 0.636
+COAD IL2RA rho = 0.355, p = 5.68e-15
+COAD IL6 rho = 0.392, p < 2.2e-16
+parse error COAD+IL6R.jpg
+COAD IL6R None
+parse error COAD+KLRC1.jpg
+COAD KLRC1 None
+parse error COAD+KLRK1.jpg
+COAD KLRK1 None
+COAD LTA rho = 0.306, p = 2.78e-11
+COAD MICB rho = 0.119, p = 0.0105
+COAD NT5E CSMD2_exrho = -0.085, p
+COAD PVR rho = -0.149, p = 0.00136
+COAD RAET1E rho = 0.017, p = 0.718
+COAD TMEM173 rho = 0.14, p = 0.00273
+COAD TMIGD2 rho = -0.008, p = 0.863
+parse error COAD+TNFRSF13B.jpg
+COAD TNFRSF13B None
+COAD TNFRSF13C rho = 0.15, p = 0.00124
+COAD TNFRSF14 rho = -0.092, p = 0.0488
+COAD TNFRSF17 rho = 0.143, p = 0.00216
+COAD TNFRSF18 rho = 0.288, p = 3.68e-10
+COAD TNFRSF25 rho = -0.009, p =
+COAD TNFRSF4 rho = 0.399, p < 2.2e-16
+parse error COAD+TNFRSF8.jpg
+COAD TNFRSF8 None
+COAD TNFRSF9 rho = 0.361, p = 1.55e-15
+COAD TNFSF13 rho = -0.038, p = 0.419
+parse error COAD+TNFSF13B.jpg
+COAD TNFSF13B None
+COAD TNFSF14 rho = 0.395, p < 2.2e-16
+COAD TNFSF15 CSMD2_ex= 0.054, prho
+COAD TNFSF4 rho = 0.517, p < 2.2e-16
+parse error COAD+TNFSF9.jpg
+COAD TNFSF9 None
+COAD ULBP1 rho = -0.141, p = 0.00253
+ESCA C10orf54 rho = -0.151, p = 0.0397
+ESCA CD27 rho = -0.049, p = 0.509
+ESCA CD276 rho = 0.359, p = 6.18e-07
+ESCA CD28 rho = 0.253, p = 0.000529
+ESCA CD40 rho = 0.204, p = 0.00538
+ESCA CD40LG rho = -0.042, p = 0.57
+ESCA CD48 rho = 0.067, p = 0.362
+parse error ESCA+CD70.jpg
+ESCA CD70 None
+ESCA CD80 rho = 0.339, p = 2.66e-06
+ESCA CD86 rho = 0.292, p = 6e-05
+ESCA CXCL12 rho = 0.264, p = 0.000301
+ESCA CXCR4 rho = 0.139, p = 0.0598
+ESCA ENTPD1 rho = 0.358, p = 7.01e-07
+ESCA HHLA2 rho = -0.171, p = 0.0198
+ESCA ICOS rho = 0.271, p = 0.000202
+ESCA ICOSLG rho = -0.147, p = 0.0465
+ESCA IL2RA rho = 0.346, p = 1.59e-06
+ESCA IL6 rho = 0.312, p = 1.71e-05
+ESCA IL6R rho = 0.06, p = 0.415
+ESCA KLRC1 rho = 0.018, p = 0.812
+ESCA KLRK1 rho = 0.012, p = 0.875
+parse error ESCA+LTA.jpg
+ESCA LTA None
+ESCA MICB rho = 0.162, p = 0.0276
+ESCA NT5E rho = 0.021, p = 0.775
+ESCA PVR rho = -0.059, p = 0.424
+ESCA RAET1E rho = -0.18, p = 0.0144
+ESCA TMEM173 rho = 0.129, p = 0.0812
+ESCA TMIGD2 rho = -0.132, p = 0.0728
+ESCA TNFRSF13B rho = -0.066, p = 0.374
+ESCA TNFRSF13C rho = 0.035, p = 0.634
+ESCA TNFRSF14 rho = -0.157, p = 0.0326
+ESCA TNFRSF17 rho = -0.133, p = 0.0707
+ESCA TNFRSF18 rho = 0.189, p = 0.0099
+ESCA TNFRSF25 rho = -0.019, p = 0.793
+parse error ESCA+TNFRSF4.jpg
+ESCA TNFRSF4 None
+ESCA TNFRSF8 rho = 0.155, p = 0.0356
+ESCA TNFRSF9 rho = 0.339, p = 2.69e-06
+ESCA TNFSF13 rho = -0.2, p = 0.00643
+ESCA TNFSF13B rho = 0.165, p = 0.0248
+ESCA TNFSF14 rho = 0.071, p = 0.34
+ESCA TNFSF15 rho = -0.059, p = 0.424
+ESCA TNFSF18 rho = 0.046, p = 0.538
+ESCA TNFSF4 rho = 0.492, p < 2.2e-16
+ESCA TNFSF9 rho = 0.016, p = 0.829
+ESCA ULBP1 rho = 0.189, p = 0.00997
+GBM C10orf54 rho = -0.295, p = 0.00012
+GBM CD27 rho = -0.316, p = 3.6e-05
+parse error GBM+CD276.jpg
+GBM CD276 None
+GBM CD28 rho = -0.154, p = 0.0477
+GBM CD40 rho = -0.218, p = 0.00485
+GBM CD48 rho = -0.416, p = 3.49e-08
+GBM CD70 rho = -0.181, p = 0.0197
+GBM CD80 rho = -0.075, p = 0.335
+GBM CD86 rho = -0.389, p = 2.85e-07
+GBM CXCL12 rho = -0.153, p = 0.0489
+parse error GBM+CXCR4.jpg
+GBM CXCR4 None
+GBM ENTPD1 rho = -0.173, p = 0.0264
+GBM ICOSLG rho = -0.002, p = 0.975
+GBM IL2RA rho = -0.169, p = 0.0297
+GBM IL6 CSMD2._ exrho = -0.044, p0.0
+parse error GBM+IL6R.jpg
+GBM IL6R None
+GBM KLRK1 rho = 0.161, p = 0.0382
+GBM LTA rho = 0.146, p = 0.0614
+GBM MICB rho = -0.209, p = 0.00701
+GBM NT5E rho = -0.033, p = 0.672
+GBM PVR rho = 0.198, p = 0.0108
+GBM TMEM173 rho = -0.098, p = 0.207
+GBM TMIGD2 rho = -0.144, p = 0.0641
+GBM TNFRSF13C rho = 0.4, p = 1.21e-07
+GBM TNFRSF14 rho = -0.235, p = 0.00238
+GBM TNFRSF18 rho = -0.095, p = 0.222
+GBM TNFRSF25 rho = 0.192, p = 0.0134
+GBM TNFRSF4 rho = -0.098, p = 0.209
+GBM TNFRSF8 rho = -0.25, p = 0.00121
+GBM TNFSF13 rho = -0.395, p = 1.78e-07
+GBM TNFSF13B rho = -0.185, p = 0.0173
+GBM TNFSF14 0.054, p = 0.49rho
+GBM TNFSF4 rho = -0.395, p = 1.75e-07
+GBM TNFSF9 rho = -0.183, p = 0.0185
+GBM ULBP1 rho = 0.14, p = 0.0727
+HNSC C10orf54 rho = -0.177, p = 5.12e-05
+HNSC CD27 rho = -0.039, p = 0.37
+parse error HNSC+CD276.jpg
+HNSC CD276 None
+HNSC CD28 rho = 0.21, p = 1.42e-06
+parse error HNSC+CD40.jpg
+HNSC CD40 None
+parse error HNSC+CD40LG.jpg
+HNSC CD40LG None
+HNSC CD48 0.005, prho
+HNSC CD70 rho = 0.052, p = 0.235
+HNSC CD80 rho = 0.206, p = 2.16e-06-5.0 -2.5
+HNSC CD86 rho = 0.19, p = 1.34e-05
+HNSC CXCL12 rho = 0.448, p < 2.2e-16
+HNSC CXCR4 rho = 0.214, p = 9e-07
+HNSC ENTPD1 rho = 0.328, p = 2.08e-14
+HNSC HHLA2 rho = -0.064, p = 0.141
+HNSC ICOS rho = 0.104, p = 0.0171
+HNSC ICOSLG rho = 0.035, p = 0.427
+HNSC IL2RA rho = 0.213, p = 9.13e-07
+HNSC IL6 rho = 0.165, p = 0.000161
+parse error HNSC+IL6R.jpg
+HNSC IL6R None
+HNSC KLRC1 rho = -0.136, p = 0.00184
+HNSC KLRK1 rho = -0.15, p = 0.000568
+HNSC LTA 0.026, p = 0.0CSMD2_ex-2.5rho
+parse error HNSC+MICB.jpg
+HNSC MICB None
+HNSC NT5E rho = 0.305, p = 1.28e-12
+HNSC PVR rho = 0.039, p = 0.375
+HNSC RAET1E rho = -0.101, p = 0.0206
+HNSC TMEM173 rho = -0.021, p = 0.627
+HNSC TMIGD2 rho = -0.148, p = 0.000678
+parse error HNSC+TNFRSF13B.jpg
+HNSC TNFRSF13B None
+parse error HNSC+TNFRSF13C.jpg
+HNSC TNFRSF13C None
+HNSC TNFRSF14 rho = -0.179, p = 3.93e-05
+HNSC TNFRSF17 rho = -0.005, p
+HNSC TNFRSF18 rho = -0.241, p = 2.74e-08
+parse error HNSC+TNFRSF25.jpg
+HNSC TNFRSF25 None
+HNSC TNFRSF4 rho = 0.072, p = 0.0987
+HNSC TNFRSF8 rho = 0.151, p = 0.000527
+parse error HNSC+TNFRSF9.jpg
+HNSC TNFRSF9 None
+HNSC TNFSF13 rho = 0.081, p = 0.0654
+HNSC TNFSF13B rho = 0.094, p = 0.0315
+HNSC TNFSF14 rho = 0.222, p = 3.38e-07
+HNSC TNFSF15 rho = 0.194, p = 8.12e-06
+HNSC TNFSF18 rho = 0.052, p = 0.237
+HNSC TNFSF4 rho = 0.373, p < 2.2e-16
+HNSC TNFSF9 rho = -0.102, p = 0.0196
+HNSC ULBP1 rho = 0.098, p = 0.0247-5.0 -2.5
+KICH C10orf54 rho = 0.036, p = 0.775
+KICH CD27 rho = -0.14, p = 0.262
+KICH CD276 rho = -0.009, p = 0.94
+KICH CD28 rho = 0.048, p = 0.702
+KICH CD40 rho = 0.167, p = 0.18
+KICH CD40LG rho = -0.071, p = 0.57
+KICH CD48 rho = -0.094, p = 0.452
+KICH CD80 rho = 0.014, p = 0.912
+KICH CD86 rho = -0.092, p = 0.461
+KICH CXCL12 rho = 0.032, p = 0.796
+KICH CXCR4 rho = 0.1, p = 0.425
+KICH ENTPD1 rho = 0.121, p = 0.334
+KICH HHLA2 rho = 0.097, p = 0.438
+KICH ICOSLG rho = -0.051, p = 0.684
+KICH IL2RA rho = 0.003, p = 0.983
+KICH IL6 rho = 0.053, p = 0.67
+KICH IL6R rho = -0.091, p = 0.466
+KICH KLRK1 rho = -0.102, p = 0.414
+KICH MICB rho = 0.173, p = 0.164
+KICH NT5E rho = 0.324, p = 0.00822
+KICH PVR rho = 0.093, p = 0.455
+KICH RAET1E rho = 0.132, p = 0.288
+KICH TMEM173 rho = 0.11, p = 0.379
+KICH TNFRSF13C rho = 0.063, p = 0.616
+KICH TNFRSF14 rho = 0.004, p = 0.974
+KICH TNFRSF18 rho = 0.056, p = 0.657
+KICH TNFRSF25 rho = 0.027, p = 0.831
+KICH TNFRSF4 rho = 0.405, p = 0.000808
+KICH TNFRSF8 rho = -0.088, p = 0.48
+KICH TNFSF13 rho = -0.114, p = 0.362
+KICH TNFSF13B rho = -0.072, p = 0.567
+KICH TNFSF15 rho = -0.207, p = 0.0946
+KICH TNFSF4 rho = -0.129, p = 0.3
+KICH TNFSF9 rho = 0.025, p = 0.844
+KICH ULBP1 rho = -0.063, p = 0.615
+KIRC C10orf54 rho = 0.184, p = 2.03e-05
+KIRC CD27 rho = -0.125, p = 0.0037
+KIRC CD276 rho = 0.026, p = 0.551
+KIRC CD28 rho = -0.066, p = 0.126
+KIRC CD40 rho = 0.05, p = 0.249
+KIRC CD40LG 0.170.0CSMD2 ex0.06, p-2.5rho-5.0
+KIRC CD48 rho = -0.12, p = 0.00557
+KIRC CD70 rho = -0.159, p = 0.000232-5.0 “2.5
+KIRC CD80 rho = -0.104, p = 0.0166-5.0 -2.5
+KIRC CD86 rho = -0.165, p = 0.000135
+KIRC CXCL12 rho = 0.059, p = 0.177
+KIRC CXCR4 rho = 0.058, p = 0.18-5.0 “2.5
+KIRC ENTPD1 rho = 0.266, p = 4.84e-10
+KIRC HHLA2 rho = 0.088, p = 0.0412
+KIRC ICOS rho = -0.047, p = 0.283
+KIRC ICOSLG rho = -0.001, p = 0.979
+KIRC IL2RA rho = -0.003, p = 0.943
+KIRC IL6 rho = -0.004, p = 0.923
+KIRC IL6R rho = 0.127, p = 0.00325
+KIRC KLRC1 rho = -0.069, p = 0.109
+KIRC KLRK1 rho = -0.007, p = 0.87-5.0 -2.5
+KIRC LTA rho = -0.08, p = 0.0642
+KIRC MICB rho = 0.005, p = 0.907
+KIRC NT5E rho = 0.132, p = 0.00222
+parse error KIRC+PVR.jpg
+KIRC PVR None
+KIRC RAET1E rho = 0.331, p = 5.73e-15
+KIRC TMEM173 0.0003050.156, p =rho
+KIRC TMIGD2 rho = -0.043, p = 0.326
+KIRC TNFRSF14 rho = 0.046, p = 0.284
+KIRC TNFRSF17 rho = -0.105, p = 0.0154
+parse error KIRC+TNFRSF18.jpg
+KIRC TNFRSF18 None
+KIRC TNFRSF25 rho = 0.208, p = 1.3e-06
+KIRC TNFRSF4 rho = 0.406, p < 2.2e-16
+KIRC TNFRSF8 rho = 0.093, p = 0.0313 5.0
+KIRC TNFRSF9 rho = -0.084, p = 0.0526
+KIRC TNFSF13 rho = -0.113, p = 0.00889
+KIRC TNFSF13B rho = -0.105, p = 0.0157  5.0
+parse error KIRC+TNFSF14.jpg
+KIRC TNFSF14 None
+parse error KIRC+TNFSF15.jpg
+KIRC TNFSF15 None
+KIRC TNFSF4 rho = 0.02, p = 0.643
+KIRC TNFSF9 rho = -0.21, p = 1.01e-06
+KIRC ULBP1 rho = 0.042, p = 0.335
+KIRP C10orf54 rho = 0.143, p = 0.0144
+KIRP CD27 rho = 0.158, p = 0.00715
+KIRP CD276 rho = -0.051, p = 0.39
+KIRP CD28 0.077, p = 0CSMD2 ex-4rho
+KIRP CD40 rho = 0.045, p = 0.443
+KIRP CD40LG rho = 0.087, p = 0.137
+parse error KIRP+CD48.jpg
+KIRP CD48 None
+KIRP CD70 rho = 0.084, p = 0.151
+KIRP CD80 rho = 0.304, p = 1.42e-07
+KIRP CD86 rho = 0.055, p = 0.347
+KIRP CXCL12 rho = 0.231, p = 7.15e-05
+KIRP CXCR4 rho = 0.121, p = 0.0392
+KIRP ENTPD1 rho = 0.268, p = 3.94e-06
+KIRP HHLA2 rho = -0.336, p = 5e-09
+^D
+KIRP ICOS rho = 0.204, p = 0.000487
+KIRP ICOSLG rho = 0.097, p = 0.0975
+parse error KIRP+IL2RA.jpg
+KIRP IL2RA None
+KIRP IL6 rho = 0.266, p = 4.43e-06
+KIRP IL6R 0CSMD2 ex-4  tT _ Ndxa 9110.943rho = -0.004, p
+KIRP KLRK1 rho = 0.152, p = 0.00946
+KIRP LTA rho = 0.267, p = 4.28e-06
+parse error KIRP+MICB.jpg
+KIRP MICB None
+KIRP NT5E rho = -0.023, p = 0.697
+KIRP PVR rho = 0.064, p = 0.278
+KIRP RAET1E rho = 0.397, p = 2.61e-12
+KIRP TMEM173 rho = 0.402, p = 1.23e-12
+KIRP TMIGD2 rho = 0.108, p = 0.0669
+KIRP TNFRSF13B rho = 0.141, p = 0.0158
+KIRP TNFRSF14 rho = 0.011, p = 0.857
+KIRP TNFRSF17 rho = 0.202, p = 0.000532
+KIRP TNFRSF18 rho = 0.182, p = 0.00182
+KIRP TNFRSF25 rho = 0.105, p = 0.074
+KIRP TNFRSF4 rho = 0.355, p = 5.84e-10
+KIRP TNFRSF8 rho = 0.244, p = 2.77e-05
+KIRP TNFRSF9 rho = 0.289, p = 6e-07
+KIRP TNFSF13 rho = -0.424, p = 1.99e-14
+parse error KIRP+TNFSF13B.jpg
+KIRP TNFSF13B None
+KIRP TNFSF14 rho = 0.157, p = 0.00723
+KIRP TNFSF15 rho = 0.118, p = 0.0452
+KIRP TNFSF4 rho = 0.191, p = 0.00109
+KIRP TNFSF9 rho = -0.038, p = 0.523
+KIRP ULBP1 rho = 0.194, p = 0.000891
+parse error LGG+C10orf54.jpg
+LGG C10orf54 None
+LGG CD27 rho = -0.146, p = 0.000738-2.5
+parse error LGG+CD276.jpg
+LGG CD276 None
+LGG CD28 rho = -0.17, p = 8.73e-05
+LGG CD40 rho = -0.111, p = 0.0108
+LGG CD48 rho = -0.196, p = 5.45e-06
+LGG CD86 rho = 0.109, p = 0.0119
+LGG CXCL12 rho = 0.045, p = 0.302
+LGG CXCR4 0.0 2.5CSMD2_exrho = -0.134, p-2.5
+LGG ENTPD1 rho = 0.275, p = 1.52e-10
+LGG ICOSLG rho = -0.092, p = 0.0338
+LGG IL2RA rho = -0.125, p = 0.00385
+LGG IL6 rho = 0.029, p = 0.499
+LGG IL6R rho = 0.192, p = 8.46e-06
+LGG KLRK1 rho = 0.419, p < 2.2e-16
+LGG MICB rho = 0.116, p = 0.00732
+LGG NT5E rho = -0.079, p = 0.0682
+LGG PVR rho = 0.064, p = 0.144
+LGG TMEM173 rho = 0.101, p = 0.0197
+LGG TMIGD2 rho = 0.155, p = 0.000334
+LGG TNFRSF13C rho = 0.374, p < 2.2e-16
+parse error LGG+TNFRSF14.jpg
+LGG TNFRSF14 None
+LGG TNFRSF25 rho = 0.123, p = 0.00451
+LGG TNFRSF4 rho = -0.161, p = 0.000204
+LGG TNFRSF8 rho = 0.263, p = 8.59e-10
+LGG TNFSF13 rho = -0.27, p = 2.99e-10
+LGG TNFSF13B rho = 0.014, p = 0.751
+LGG TNFSF18 rho = 0.2, p = 3.63e-06
+LGG TNFSF4 rho = -0.306, p = 7.28e-13
+LGG TNFSF9 rho = -0.251, p = 5.37e-09
+LGG ULBP1 rho = 0.051, p = 0.244
+LIHC C10orf54 rho = -0.032, p = 0.541
+LIHC CD27 rho = 0, p = 0.993
+LIHC CD276 rho = 0.017, p = 0.749
+parse error LIHC+CD28.jpg
+LIHC CD28 None
+LIHC CD40 rho = 0.08, p = 0.121
+LIHC CD40LG rho = 0.064, p = 0.221
+LIHC CD48 rho = 0.001, p = 0.991
+parse error LIHC+CD80.jpg
+LIHC CD80 None
+LIHC CD86 rho = 0.019, p = 0.711
+LIHC CXCL12 rho = 0.038, p = 0.467
+LIHC CXCR4 rho = 0.074, p = 0.155
+LIHC ENTPD1 rho = 0.123, p = 0.0172
+LIHC HHLA2 rho = 0.133, p = 0.0104
+LIHC ICOS rho = 0.006, p = 0.908
+LIHC ICOSLG rho = -0.108, p = 0.0371
+LIHC IL2RA rho = 0.023, p = 0.6632.5
+LIHC IL6 rho = 0.076, p = 0.141
+LIHC IL6R 0.08, p = 0.1230.0-2.5CSMD2 ex rho =-5.0
+LIHC KLRK1 rho = -0.005, p = 0.93
+LIHC LTA rho = 0.03, p = 0.564
+LIHC MICB rho = 0.074, p = 0.152
+LIHC NT5E rho = -0.111, p = 0.0317
+LIHC PVR rho = -0.232, p = 6.61e-06
+LIHC TMEM173 rho = 0.156, p = 0.0025
+LIHC TNFRSF14 rho = -0.066, p = 0.201
+LIHC TNFRSF17 0.0CSMD2_ex-2.5 rho = -0.038, p-5.0
+LIHC TNFRSF18 rho = 0.014, p = 0.787
+LIHC TNFRSF25 rho = 0.1, p = 0.0527
+LIHC TNFRSF4 -5.0 -2.5CSMD2_ex rho = 0.031, p =
+LIHC TNFRSF8 rho = 0.042, p = 0.422
+LIHC TNFRSF9 rho = 0.081, p = 0.119
+parse error LIHC+TNFSF13.jpg
+LIHC TNFSF13 None
+LIHC TNFSF13B rho = 0.06, p = 0.244
+LIHC TNFSF14 rho = 0.164, p = 0.00151
+LIHC TNFSF15 “2.5CSMD2 ex-5.0   -5.07“1.5dx9 GT4SANL0.177, p = 0.000619rho
+LIHC TNFSF4 rho = 0.125, p = 0.0162
+LIHC TNFSF9 -5.0 -2.5CSMD2_exrho = 0.058, p =   -5.0 5“1.5dxa 64SANL
+LIHC ULBP1 rho = 0.188, p = 0.00026
+LUAD C10orf54 rho = 0.177, p = 5.24e-05
+LUAD CD27 rho = 0.222, p = 3.7e-07
+parse error LUAD+CD276.jpg
+LUAD CD276 None
+LUAD CD28 rho = 0.264, p = 1.27e-09-5.0 -2.5
+LUAD CD40 rho = 0.133, p = 0.00238
+LUAD CD40LG rho = 0.022, p = 0.622
+LUAD CD48 rho = 0.013, p = 0.767
+parse error LUAD+CD70.jpg
+LUAD CD70 None
+parse error LUAD+CD80.jpg
+LUAD CD80 None
+LUAD CD86 rho = 0.257, p = 3.71e-09
+LUAD CXCL12 rho = 0.45, p < 2.2e-16
+LUAD CXCR4 rho = 0.225, p = 2.55e-07-5.0 -2.5
+parse error LUAD+ENTPD1.jpg
+LUAD ENTPD1 None
+LUAD HHLA2 rho = -0.023, p = 0.602
+parse error LUAD+ICOS.jpg
+LUAD ICOS None
+LUAD ICOSLG rho = 0.185, p = 2.5e-05
+parse error LUAD+IL2RA.jpg
+LUAD IL2RA None
+LUAD IL6 rho = 0.277, p = 1.67e-10
+parse error LUAD+IL6R.jpg
+LUAD IL6R None
+LUAD KLRC1 rho = 0.04, p = 0.367
+LUAD KLRK1 rho = 0.067, p = 0.129-5.0 -2.5
+LUAD LTA rho = 0.162, p = 0.000212
+LUAD MICB rho = 0.193, p = 1.04e-05
+LUAD NT5E rho = 0.034, p = 0.44
+LUAD PVR rho = 0.14, p = 0.0014
+LUAD RAET1E rho = 0.095, p = 0.0307
+LUAD TMEM173 rho = 0, p = 0.995
+LUAD TMIGD2 rho = 0.064, p = 0.146-5.0 -2.5
+LUAD TNFRSF13B rho = 0.08, p = 0.0692
+LUAD TNFRSF13C rho = 0.158, p = 0.000311
+parse error LUAD+TNFRSF14.jpg
+LUAD TNFRSF14 None
+LUAD TNFRSF17 rho = 0.177, p = 5.17e-05
+LUAD TNFRSF18 rho = 0.29, p = 2.39e-11 5.0
+parse error LUAD+TNFRSF25.jpg
+LUAD TNFRSF25 None
+LUAD TNFRSF4 rho = 0.343, p = 1.18e-15
+LUAD TNFRSF8 rho = 0.338, p = 3.6e-15
+LUAD TNFRSF9 rho = 0.304, p = 2.13e-12
+LUAD TNFSF13 rho = -0.146, p = 0.000916
+LUAD TNFSF13B rho = 0.167, p = 0.000139
+LUAD TNFSF14 0.000742-2.5 0.0CSMD2_ex rho = 0.148, p =
+LUAD TNFSF15 rho = -0.131, p = 0.00293
+parse error LUAD+TNFSF4.jpg
+LUAD TNFSF4 None
+LUAD TNFSF9 rho = 0.033, p = 0.46
+LUAD ULBP1 rho = 0.136, p = 0.0019-5.0 -2.5
+LUSC C10orf54 rho = 0.321, p = 2.55e-13
+LUSC CD27 rho = 0.326, p = 1.03e-13
+LUSC CD276 rho = 0.174, p = 9.51e-05
+parse error LUSC+CD28.jpg
+LUSC CD28 None
+LUSC CD40 rho = 0.117, p = 0.00862
+parse error LUSC+CD40LG.jpg
+LUSC CD40LG None
+LUSC CD48 rho = 0.157, p = 0.000441
+LUSC CD70 rho = 0.244, p = 3.49e-08
+parse error LUSC+CD80.jpg
+LUSC CD80 None
+LUSC CD86 rho = 0.268, p = 1.22e-09
+LUSC CXCL12 rho = 0.51, p < 2.2e-16
+parse error LUSC+CXCR4.jpg
+LUSC CXCR4 None
+LUSC ENTPD1 rho = 0.463, p < 2.2e-16
+LUSC HHLA2 rho = -0.028, p = 0.539
+LUSC ICOS rho = 0.301, p = 8.11e-12
+parse error LUSC+ICOSLG.jpg
+LUSC ICOSLG None
+LUSC IL2RA rho = 0.336, p = 1.37e-14
+LUSC IL6 rho = 0.127, p = 0.00457
+LUSC IL6R rho = 0.224, p = 4.26e-07
+LUSC KLRC1 rho = 0.065, p = 0.144
+LUSC KLRK1 rho = 0.122, p = 0.00629
+LUSC LTA rho = 0.259, p = 4.9e-09
+LUSC MICB rho = 0.184, p = 3.69e-05
+LUSC NT5E rho = 0.261, p = 3.64e-09
+LUSC PVR 0CSMD2 ex0.071, p-2rho-4
+LUSC RAET1E rho = 0.064, p = 0.152
+LUSC TMEM173 rho = 0.39, p < 2.2e-16
+LUSC TMIGD2 rho = 0.089, p = 0.0477
+LUSC TNFRSF13B rho = 0.216, p = 1.09e-06
+LUSC TNFRSF13C 0CSMD2 ex= 0.056, p-2rho 5.05 dxa O€TASYANL
+LUSC TNFRSF14 rho = 0.217, p = 1.05e-06
+LUSC TNFRSF17 rho = 0.289, p = 5.18e-11
+LUSC TNFRSF18 rho = -0.059, p = 0.189
+LUSC TNFRSF25 rho = 0.05, p = 0.267
+LUSC TNFRSF4 rho = 0.394, p < 2.2e-16
+parse error LUSC+TNFRSF8.jpg
+LUSC TNFRSF8 None
+LUSC TNFRSF9 rho = 0.347, p = 1.48e-15
+parse error LUSC+TNFSF13.jpg
+LUSC TNFSF13 None
+LUSC TNFSF13B rho = 0.28, p = 2.03e-10
+parse error LUSC+TNFSF14.jpg
+LUSC TNFSF14 None
+LUSC TNFSF15 rho = 0.13, p = 0.00347
+LUSC TNFSF18 0CSMD2 ex-2 rho = -0.066, p
+LUSC TNFSF4 rho = 0.465, p < 2.2e-16
+LUSC TNFSF9 rho = -0.043, p = 0.34
+LUSC ULBP1 rho = -0.061, p = 0.169
+MESO C10orf54 rho = -0.306, p = 0.00409
+MESO CD27 rho = -0.068, p = 0.532
+MESO CD276 rho = 0.249, p = 0.0202
+MESO CD28 rho = 0.152, p = 0.16
+MESO CD40 rho = -0.299, p = 0.00506
+MESO CD40LG rho = 0.029, p = 0.792
+MESO CD48 rho = -0.127, p = 0.242
+MESO CD70 rho = 0.026, p = 0.814
+MESO CD80 rho = 0.109, p = 0.313
+MESO CD86 rho = -0.089, p = 0.412
+MESO CXCL12 rho = 0.204, p = 0.0582
+MESO CXCR4 rho = 0.1, p = 0.354
+MESO ENTPD1 rho = 0.283, p = 0.00815
+MESO ICOS rho = 0.056, p = 0.607
+MESO ICOSLG rho = -0.071, p = 0.515
+MESO IL2RA rho = 0.258, p = 0.0159
+MESO IL6 rho = 0.139, p = 0.2
+MESO IL6R rho = -0.017, p = 0.876
+MESO KLRC1 rho = -0.246, p = 0.0216
+MESO KLRK1 rho = -0.168, p = 0.12
+MESO LTA rho = -0.037, p = 0.734
+MESO MICB rho = -0.162, p = 0.134
+MESO NT5E rho = 0.407, p = 0.000106
+MESO PVR rho = 0.218, p = 0.0426
+MESO RAET1E rho = -0.239, p = 0.0259
+MESO TMEM173 rho = 0.11, p = 0.312
+MESO TMIGD2 rho = -0.248, p = 0.021
+MESO TNFRSF13B rho = -0.116, p = 0.286
+MESO TNFRSF13C rho = 0.04, p = 0.713
+MESO TNFRSF14 rho = -0.07, p = 0.516
+MESO TNFRSF17 rho = -0.225, p = 0.0362
+MESO TNFRSF18 rho = -0.076, p = 0.485
+MESO TNFRSF25 rho = 0.187, p = 0.0832
+MESO TNFRSF4 rho = 0.163, p = 0.132
+MESO TNFRSF8 rho = -0.297, p = 0.00536
+MESO TNFRSF9 rho = -0.001, p = 0.989
+MESO TNFSF13 rho = -0.225, p = 0.0368
+MESO TNFSF13B rho = -0.26, p = 0.0151
+MESO TNFSF14 rho = -0.113, p = 0.298
+MESO TNFSF15 rho = 0.1, p = 0.356
+MESO TNFSF18 rho = 0.154, p = 0.154
+MESO TNFSF4 rho = 0.299, p = 0.00502
+MESO TNFSF9 rho = -0.03, p = 0.784
+MESO ULBP1 rho = 0.14, p = 0.197
+OV C10orf54 rho = 0.177, p = 0.00183
+OV CD27 rho = 0.028, p = 0.62
+OV CD276 rho = 0.224, p = 7.73e-05
+OV CD28 rho = 0.254, p = 7.26e-06
+OV CD40 rho = 0.068, p = 0.236
+OV CD40LG rho = 0.095, p = 0.0966
+OV CD48 rho
+OV CD70 rho-5.0
+parse error OV+CD80.jpg
+OV CD80 None
+OV CD86 rho = 0.168, p = 0.00313
+OV CXCL12 rho = 0.429, p < 2.2e-16
+OV CXCR4 rho = 0.025, p = 0.667
+OV ENTPD1 rho = 0.208, p = 0.00025
+OV HHLA2 rho = -0.194, p = 0.000645
+OV ICOS rho = 0.094, p = 0.102
+OV ICOSLG rho
+OV IL2RA rho = 0.269, p = 1.85e-06
+OV IL6 rho = 0.209, p = 0.000231
+OV IL6R rho = -0.051, p = 0.376
+OV KLRC1 rho = 0.081, p = 0.154
+OV KLRK1 rho = 0.161, p = 0.00462
+OV LTA -5.0
+OV MICB rho = -0.014, p = 0.805
+OV NT5E rho = 0.465, p < 2.2e-16
+OV PVR rho = 0.068, p = 0.235
+OV TMEM173 rho = 0.264, p = 2.99e-06
+OV TMIGD2 -5.00.102, p = 0.0746rho =
+OV TNFRSF13C rho = -0.123, p = 0.0306
+OV TNFRSF14 rho = 0.083, p = 0.146
+OV TNFRSF17 rho = -0.01, p = 0.855
+OV TNFRSF18 rho = 0.035, p = 0.536
+OV TNFRSF25 rho = -0.004, p = 0.947
+OV TNFRSF4 0.079, p = 0.166rho =
+OV TNFRSF8 rho = 0.257, p = 5.67e-06
+OV TNFRSF9 rho = 0.209, p = 0.000237
+OV TNFSF13 rho = -0.104, p = 0.0679
+OV TNFSF13B rho = 0.145, p = 0.0109
+OV TNFSF14 rho = 0.295, p = 1.61e-07
+OV TNFSF15 rho = 0.203, p = 0.000343
+OV TNFSF4 rho = 0.348, p = 4.51e-10
+OV TNFSF9 rho = 0.204, p = 0.00032
+OV ULBP1 rho = 0.036, p = 0.532
+PAAD C10orf54 rho = 0.077, p = 0.304
+PAAD CD27 rho = 0.165, p = 0.0277
+PAAD CD276 rho = 0.409, p = 1.72e-08
+PAAD CD28 0.0CSMD2 ex-2.50.277, p = 0.000187rho
+PAAD CD40 rho = 0.195, p = 0.00886
+PAAD CD40LG rho = 0.112, p = 0.134
+PAAD CD48 rho = 0.129, p = 0.0863
+PAAD CD70 rho = 0.238, p = 0.00139
+PAAD CD80 rho = 0.299, p = 5.2e-05
+PAAD CD86 rho = 0.352, p = 1.63e-06
+PAAD CXCL12 0.0CSMD2 ex-2.5 rho = 0.26, p = 0.000469
+PAAD CXCR4 rho = 0.159, p = 0.0335
+PAAD ENTPD1 -2.51.21e-060.356, prho =
+PAAD HHLA2 rho = 0.207, p = 0.0055
+PAAD ICOS rho = 0.198, p = 0.00799
+PAAD ICOSLG -2.5 0.0CSMD2_ex rho = 0.037, p
+PAAD IL2RA rho = 0.286, p = 0.000113
+PAAD IL6 rho = 0.129, p = 0.0856
+PAAD IL6R rho = 0.134, p = 0.0745
+PAAD KLRC1 rho = 0.106, p = 0.159
+PAAD KLRK1 = 0.144, p = 0.0545-2.5rho
+PAAD LTA rho = 0.139, p = 0.0644
+PAAD MICB rho = 0.294, p = 6.89e-05
+PAAD NT5E rho
+PAAD PVR rho = -0.201, p = 0.00715
+PAAD RAET1E rho = -0.018, p = 0.807
+PAAD TMEM173 rho = 0.142, p = 0.0581
+PAAD TMIGD2 rho = 0.094, p = 0.209
+PAAD TNFRSF13B rho = 0.035, p = 0.641
+PAAD TNFRSF13C rho = 0.026, p = 0.734
+PAAD TNFRSF14 rho = -0.061, p = 0.416
+PAAD TNFRSF17 rho = 0.211, p = 0.00472
+PAAD TNFRSF18 rho = 0.113, p = 0.13
+PAAD TNFRSF25 rho = -0.158, p = 0.0351
+PAAD TNFRSF4 rho = 0.055, p = 0.462
+PAAD TNFRSF8 rho = 0.193, p = 0.00962
+PAAD TNFRSF9 rho = 0.367, p = 5.4e-07
+PAAD TNFSF13 rho = 0.14, p = 0.0614
+PAAD TNFSF13B rho = 0.282, p = 0.00014
+PAAD TNFSF14 rho = 0.408, p = 1.93e-08
+PAAD TNFSF15 rho = 0.224, p = 0.00263
+PAAD TNFSF18 rho = 0.195, p = 0.00885
+PAAD TNFSF4 rho = 0.334, p = 5.57e-06
+PAAD TNFSF9 rho = 0.118, p = 0.114
+PAAD ULBP1 rho = 0.086, p = 0.25
+PCPG C10orf54 rho = 0.112, p = 0.13
+PCPG CD27 rho = -0.258, p = 0.000435
+PCPG CD276 rho = 0.031, p = 0.679
+PCPG CD28 rho = -0.002, p = 0.983
+PCPG CD40 rho = -0.216, p = 0.00334
+PCPG CD48 rho = -0.141, p = 0.0556
+PCPG CD86 2CSMD2_ex0rho = -0.205, p-2
+PCPG CXCL12 rho = 0.232, p = 0.00153
+PCPG CXCR4 rho = 0.081, p = 0.276
+PCPG ENTPD1 rho = 0.188, p = 0.0106
+PCPG ICOSLG rho = 0.111, p = 0.134
+PCPG IL2RA rho = -0.029, p = 0.691
+PCPG IL6 rho = 0.067, p = 0.364
+PCPG IL6R rho = 0.074, p = 0.32
+PCPG KLRK1 rho = -0.082, p = 0.268
+PCPG MICB rho = -0.027, p = 0.718
+PCPG NT5E rho = -0.124, p = 0.094
+PCPG PVR rho = 0.082, p = 0.269
+PCPG TMEM173 rho = 0.2, p = 0.00666
+PCPG TMIGD2 rho = -0.332, p = 4.82e-06
+PCPG TNFRSF14 rho = -0.252, p = 0.000565
+PCPG TNFRSF18 rho = -0.098, p = 0.184
+PCPG TNFRSF25 rho = -0.147, p = 0.0472
+PCPG TNFRSF4 rho = 0.083, p = 0.263
+PCPG TNFSF13 rho = -0.33, p = 5.37e-06
+PCPG TNFSF13B rho = -0.254, p = 0.000535
+PCPG TNFSF4 rho = -0.159, p = 0.0313
+parse error PCPG+TNFSF9.jpg
+PCPG TNFSF9 None
+PCPG ULBP1 rho = -0.269, p = 0.000228
+PRAD C10orf54 rho = 0.027, p = 0.544
+parse error PRAD+CD27.jpg
+PRAD CD27 None
+PRAD CD276 rho = 0.087, p = 0.0535
+PRAD CD28 rho = -0.045, p = 0.317
+PRAD CD40 rho = 0.099, p = 0.0272
+PRAD CD40LG rho = 0.028, p = 0.537
+parse error PRAD+CD48.jpg
+PRAD CD48 None
+PRAD CD86 rho = 0.058, p = 0.195
+PRAD CXCL12 rho = -0.005, p = 0.915
+parse error PRAD+CXCR4.jpg
+PRAD CXCR4 None
+PRAD ENTPD1 rho = 0.063, p = 0.162
+PRAD ICOS rho = 0.051, p = 0.258
+parse error PRAD+ICOSLG.jpg
+PRAD ICOSLG None
+PRAD IL2RA rho = 0.091, p = 0.0423
+parse error PRAD+IL6.jpg
+PRAD IL6 None
+parse error PRAD+IL6R.jpg
+PRAD IL6R None
+PRAD KLRK1 rho = 0.05, p = 0.27
+PRAD MICB rho = 0.062, p = 0.169
+PRAD NT5E rho = 0.176, p = 7.96e-05
+PRAD PVR rho = -0.005, p = 0.906
+PRAD TMEM173 rho = 0.171, p = 0.00013
+PRAD TNFRSF13B rho = -0.054, p = 0.226
+PRAD TNFRSF14 rho = -0.028, p = 0.526
+PRAD TNFRSF17 0.034, p-2.5-5.00.45rho
+PRAD TNFRSF18 rho = -0.009, p = 0.834
+PRAD TNFRSF25 rho = 0.037, p = 0.409
+PRAD TNFRSF4 rho = -0.041, p = 0.362
+PRAD TNFSF13 rho = 0.049, p = 0.271
+PRAD TNFSF13B rho = 0.08, p = 0.0763
+PRAD TNFSF15 rho = 0.113, p = 0.0115
+PRAD TNFSF4 rho = 0.082, p = 0.0658
+PRAD TNFSF9 rho = -0.166, p = 0.000202
+PRAD ULBP1 rho = 0.086, p = 0.055
+READ C10orf54 rho = 0.321, p = 2.52e-05
+READ CD27 rho = 0.159, p = 0.0402-5.0 “2.5
+READ CD276 rho = 0.362, p = 1.76e-06
+READ CD28 rho = 0.275, p = 0.000335
+READ CD40 rho = 0.276, p = 0.000321
+READ CD40LG rho = 0.125, p = 0.107
+READ CD48 rho = 0.204, p = 0.00815
+READ CD70 rho = 0.255, p = 0.000913
+READ CD80 rho = 0.308, p = 5.72e-05
+READ CD86 rho = 0.355, p = 2.99e-06
+READ CXCL12 rho = 0.439, p = 4.4e-09
+READ CXCR4 rho = 0.389, p = 2.51e-07
+READ ENTPD1 rho = 0.322, p = 2.41e-05
+READ HHLA2 rho = -0.244, p = 0.00156
+READ ICOS rho = 0.191, p = 0.0133
+READ ICOSLG rho = 0.157, p = 0.0428
+READ IL2RA rho = 0.321, p = 2.54e-05
+READ IL6 rho = 0.304, p = 7.17e-05
+READ IL6R rho = 0.321, p = 2.64e-05
+READ KLRC1 rho = 0.02, p = 0.793
+READ KLRK1 rho = 0.182, p = 0.0189-5.0 “2.5
+READ LTA rho = 0.3, p = 8.72e-05
+READ MICB rho = -0.032, p = 0.679
+READ NT5E rho = -0.012, p = 0.877
+READ PVR rho = -0.126, p = 0.105
+READ RAET1E rho = 0.025, p = 0.749
+READ TMEM173 rho = 0.111, p = 0.155
+READ TMIGD2 rho = -0.038, p = 0.628
+READ TNFRSF13B rho = 0.011, p = 0.892
+READ TNFRSF13C rho = 0.116, p = 0.135
+READ TNFRSF14 rho = 0.037, p = 0.631
+READ TNFRSF17 rho = -0.056, p = 0.474
+READ TNFRSF18 rho = 0.297, p = 0.000105
+READ TNFRSF25 rho = 0.04, p = 0.603
+READ TNFRSF4 rho = 0.284, p = 0.000207
+READ TNFRSF8 rho = 0.381, p = 4.85e-07
+READ TNFRSF9 rho = 0.378, p = 5.68e-07
+READ TNFSF13 rho = -0.094, p = 0.229
+READ TNFSF13B rho = 0.357, p = 2.6e-06
+READ TNFSF15 0.079, p = 0.0CSMD2_ex-2.5rho-5.0
+READ TNFSF4 rho = 0.44, p = 3.97e-09
+READ TNFSF9 rho = -0.014, p = 0.859
+READ ULBP1 rho = -0.01, p = 0.896
+SARC C10orf54 rho = -0.209, p = 0.000683
+parse error SARC+CD27.jpg
+SARC CD27 None
+SARC CD276 rho = 0.155, p = 0.0117
+parse error SARC+CD28.jpg
+SARC CD28 None
+SARC CD40 rho = -0.037, p = 0.549
+SARC CD40LG rho = -0.078, p = 0.205
+SARC CD48 rho = -0.088, p = 0.154
+SARC CD70 rho = -0.119, p = 0.054
+SARC CD80 rho = -0.172, p = 0.0053
+SARC CD86 rho = -0.127, p = 0.04
+SARC CXCL12 rho = 0.12, p = 0.0519
+SARC CXCR4 0.052, p = 0.398rho
+SARC ENTPD1 rho = -0.075, p = 0.225
+SARC ICOS rho = -0.089, p = 0.15
+SARC ICOSLG rho = -0.047, p = 0.444
+SARC IL2RA rho = -0.095, p = 0.123
+SARC IL6 rho = 0.065, p = 0.29
+parse error SARC+IL6R.jpg
+SARC IL6R None
+SARC KLRC1 rho = -0.11, p = 0.0749
+SARC KLRK1 rho = -0.178, p = 0.00377
+SARC LTA rho = -0.117, p = 0.0579
+SARC MICB rho = -0.217, p = 0.000413
+SARC NT5E rho = -0.067, p = 0.278
+SARC PVR rho = 0.09, p = 0.145
+SARC RAET1E rho = -0.195, p = 0.00152
+parse error SARC+TMEM173.jpg
+SARC TMEM173 None
+SARC TMIGD2 rho = -0.146, p = 0.0179
+SARC TNFRSF13B rho = -0.093, p = 0.131
+SARC TNFRSF13C rho = -0.096, p = 0.121
+SARC TNFRSF14 rho = -0.2, p = 0.00116
+SARC TNFRSF17 rho = -0.092, p = 0.136
+SARC TNFRSF18 rho = 0.019, p = 0.762
+SARC TNFRSF25 rho = 0.068, p = 0.273
+SARC TNFRSF4 rho = 0.002, p = 0.974
+SARC TNFRSF8 rho = -0.047, p = 0.451
+SARC TNFRSF9 rho = 0.065, p = 0.29
+SARC TNFSF13 rho = -0.223, p = 0.000279
+SARC TNFSF13B rho = -0.117, p = 0.0575
+SARC TNFSF14 rho = -0.099, p
+SARC TNFSF15 rho = -0.043, p = 0.492
+SARC TNFSF4 rho = 0.019, p = 0.759
+SARC TNFSF9 rho = -0.013, p = 0.83
+SARC ULBP1 rho = 0.122, p = 0.0479
+parse error SKCM+C10orf54.jpg
+SKCM C10orf54 None
+SKCM CD27 rho = 0.168, p = 0.000246“1.5 -5.0 -2.5
+SKCM CD276 rho = 0.049, p = 0.284
+SKCM CD28 rho = 0.302, p = 2.63e-11
+SKCM CD40 rho = 0.347, p = 1.05e-14
+SKCM CD40LG rho = 0.273, p = 1.88e-09
+parse error SKCM+CD48.jpg
+SKCM CD48 None
+SKCM CD70 rho = 0.2, p = 1.27e-05
+SKCM CD80 rho = 0.239, p = 1.63e-07
+SKCM CD86 rho = 0.276, p = 1.32e-09
+SKCM CXCL12 rho = 0.494, p < 2.2e-16
+parse error SKCM+CXCR4.jpg
+SKCM CXCR4 None
+SKCM ENTPD1 rho = 0.199, p = 1.4e-05
+SKCM ICOS rho = 0.177, p = 0.000114
+SKCM ICOSLG rho = 0.287, p = 2.47e-10
+SKCM IL2RA rho = 0.282, p = 5e-10
+SKCM IL6 rho = 0.351, p = 4.72e-15
+SKCM IL6R rho = -0.076, p = 0.0993
+SKCM KLRC1 rho = 0.105, p = 0.0231
+parse error SKCM+KLRK1.jpg
+SKCM KLRK1 None
+SKCM LTA 0.226, prho
+SKCM MICB rho = 0.1, p = 0.0292
+SKCM NT5E rho = 0.352, p = 4.41e-15
+parse error SKCM+PVR.jpg
+SKCM PVR None
+SKCM RAET1E rho = 0.283, p = 4.3e-10-5.0
+SKCM TMEM173 rho = 0.214, p = 2.84e-06
+parse error SKCM+TMIGD2.jpg
+SKCM TMIGD2 None
+SKCM TNFRSF13B rho = 0.151, p = 0.000991
+SKCM TNFRSF13C rho = 0.182, p = 6.88e-05
+SKCM TNFRSF14 rho = -0.218, p = 1.78e-06
+SKCM TNFRSF17 rho = 0.144, p = 0.0017
+SKCM TNFRSF18 rho = 0.226, p = 7.63e-07
+SKCM TNFRSF25 rho = 0.318, p = 1.98e-12
+SKCM TNFRSF4 rho = 0.276, p = 1.29e-09
+SKCM TNFRSF8 rho = 0.431, p < 2.2e-16
+SKCM TNFRSF9 rho = 0.212, p = 3.66e-06
+SKCM TNFSF13 6.33e-070.227, p =rho
+SKCM TNFSF13B rho = 0.193, p = 2.5e-05
+SKCM TNFSF14 rho = 0.308, p = 1.09e-11
+SKCM TNFSF15 rho = 0.181, p = 7.86e-05
+SKCM TNFSF4 rho = 0.204, p = 8.18e-06
+SKCM TNFSF9 rho = -0.03, p = 0.521
+SKCM ULBP1 rho = 0.241, p = 1.27e-07
+STAD C10orf54 rho = 0.129, p = 0.00869
+STAD CD27 rho = 0.11, p = 0.0256
+STAD CD276 rho = 0.28, p = 7.24e-09
+STAD CD28 rho = 0.211, p = 1.53e-05
+STAD CD40 rho = 0.143, p = 0.00364
+parse error STAD+CD40LG.jpg
+STAD CD40LG None
+STAD CD48 rho = 0.113, p = 0.0209
+STAD CD70 rho = 0.097, p = 0.0494
+STAD CD80 rho = 0.158, p = 0.00129
+STAD CD86 rho = 0.203, p = 3.28e-05
+STAD CXCL12 rho = 0.383, p = 4.14e-16
+STAD CXCR4 rho = 0.224, p = 4.52e-06
+STAD ENTPD1 rho = 0.424, p < 2.2e-16
+STAD HHLA2 0.033, p =rho
+STAD ICOS rho = 0.069, p = 0.158
+STAD ICOSLG rho = 0.117, p = 0.0175
+STAD IL2RA 0.152, p = 0.00193rho
+STAD IL6 rho0.226, p = 3.55e-06
+STAD IL6R rho = 0.196, p = 5.94e-05
+parse error STAD+KLRC1.jpg
+STAD KLRC1 None
+STAD KLRK1 rho = 0.03, p = 0.549
+STAD LTA rho = 0.076, p = 0.124
+STAD MICB rho = -0.049, p = 0.323
+STAD NT5E rho = 0.09, p = 0.0678
+STAD PVR rho = -0.113, p = 0.0213
+STAD RAET1E rho = 0.16, p = 0.00108
+STAD TMEM173 rho = 0.291, p = 1.86e-09
+STAD TMIGD2 rho = 0.033, p = 0.502
+STAD TNFRSF13B rho = 0.143, p = 0.00348
+STAD TNFRSF13C rho = 0.066, p = 0.178
+STAD TNFRSF14 rho = -0.159, p = 0.00113
+STAD TNFRSF17 rho = 0.112, p = 0.0222
+STAD TNFRSF18 rho = -0.018, p = 0.708
+STAD TNFRSF25 rho = -0.124, p = 0.0113
+STAD TNFRSF4 rho = 0.14, p = 0.00426
+STAD TNFRSF8 rho = 0.247, p = 3.97e-07
+parse error STAD+TNFRSF9.jpg
+STAD TNFRSF9 None
+STAD TNFSF13 rho = 0.033, p = 0.505
+parse error STAD+TNFSF13B.jpg
+STAD TNFSF13B None
+STAD TNFSF14 rho = 0.195, p = 6.78e-05
+parse error STAD+TNFSF15.jpg
+STAD TNFSF15 None
+STAD TNFSF18 -3 0CSMD2_ex= 0.056, prho
+STAD TNFSF4 rho = 0.262, p = 6.52e-08
+STAD TNFSF9 rho = 0.047, p = 0.342
+STAD ULBP1 rho = 0.082, p = 0.0972
+TGCT C10orf54 rho = -0.198, p = 0.0132
+TGCT CD27 rho = 0.073, p = 0.366
+TGCT CD276 rho = -0.146, p = 0.0696
+TGCT CD28 rho = 0.154, p = 0.0552
+TGCT CD40 rho = -0.089, p = 0.271
+TGCT CD40LG rho = 0.106, p = 0.187
+TGCT CD48 rho = 0.032, p = 0.693
+TGCT CD70 rho = -0.142, p = 0.0772
+TGCT CD80 rho = -0.057, p = 0.482
+TGCT CD86 rho = -0.087, p = 0.283
+TGCT CXCL12 rho = -0.123, p = 0.126
+TGCT CXCR4 rho = 0.044, p = 0.588
+TGCT ENTPD1 rho = 0.105, p = 0.191
+TGCT HHLA2 rho = -0.114, p = 0.156
+TGCT ICOS rho = 0.034, p = 0.674
+TGCT ICOSLG rho = -0.301, p = 0.000146
+TGCT IL2RA rho = -0.031, p = 0.696
+TGCT IL6 rho = 0.041, p = 0.609
+TGCT IL6R rho = 0.22, p = 0.00598
+TGCT KLRC1 rho = -0.06, p = 0.453
+TGCT KLRK1 rho = 0.089, p = 0.271
+TGCT LTA rho = 0.021, p = 0.799
+TGCT MICB rho = -0.015, p = 0.855
+TGCT NT5E rho = -0.312, p = 7.78e-05
+TGCT PVR rho = -0.171, p = 0.0331
+TGCT TMEM173 rho = -0.21, p = 0.00854
+TGCT TMIGD2 rho = 0.151, p = 0.0599
+TGCT TNFRSF13B rho = 0.054, p = 0.501
+TGCT TNFRSF13C rho = 0.276, p = 0.000517
+TGCT TNFRSF14 rho = -0.05, p = 0.538
+TGCT TNFRSF17 rho = 0.102, p = 0.207
+TGCT TNFRSF18 rho = -0.144, p = 0.0735
+TGCT TNFRSF25 rho = 0.368, p = 2.69e-06
+TGCT TNFRSF4 rho = -0.17, p = 0.0337
+TGCT TNFRSF8 rho = -0.253, p = 0.00147
+TGCT TNFRSF9 rho = 0.044, p = 0.585
+parse error TGCT+TNFSF13.jpg
+TGCT TNFSF13 None
+TGCT TNFSF13B rho = 0.003, p = 0.97
+TGCT TNFSF14 rho = 0.098, p = 0.224
+TGCT TNFSF15 rho = -0.169, p = 0.0349
+TGCT TNFSF4 rho = -0.21, p = 0.0085
+TGCT TNFSF9 rho = -0.241, p = 0.00251
+TGCT ULBP1 rho = -0.189, p = 0.0184
+parse error THCA+C10orf54.jpg
+THCA C10orf54 None
+THCA CD27 rho = 0.185, p = 2.81e-05
+THCA CD276 1.29e-09rho = -0.266, pCSMD2 ex
+THCA CD28 rho = -0.212, p = 1.53e-06
+THCA CD40 rho = -0.167, p = 0.000159
+THCA CD40LG rho = -0.231, p = 1.54e-07
+THCA CD48 rho = -0.196, p = 9.15e-06
+parse error THCA+CD70.jpg
+THCA CD70 None
+THCA CD80 rho = -0.195, p = 9.58e-06
+THCA CD86 rho = -0.205, pCSMD2 ex-33.31e-06
+THCA CXCL12 rho = 0.107, p = 0.0158
+THCA CXCR4 rho = 0.021, p = 0.629
+THCA ENTPD1 rho = -0.061, p = 0.17
+parse error THCA+ICOS.jpg
+THCA ICOS None
+THCA ICOSLG CSMD2_exrho = -0.283, p
+THCA IL2RA rho = -0.245, p = 2.55e-08
+THCA IL6 rho = -0.068, p = 0.125
+THCA IL6R rho = -0.107, p = 0.0156
+THCA KLRC1 rho = -0.257, p = 4.86e-09
+THCA KLRK1 rho = -0.142, p = 0.00135
+parse error THCA+LTA.jpg
+THCA LTA None
+THCA MICB rho = -0.23, p = 1.72e-07
+THCA NT5E rho = -0.332, p = 1.91e-14
+THCA PVR = 0.864CSMD2_exrho = -0.008, p
+THCA RAET1E rho = -0.148, p = 0.000803
+THCA TMEM173 0.00233CSMD2 ex-3rho = -0.135, p
+THCA TNFRSF13B rho = -0.258, p = 3.88e-09
+THCA TNFRSF13C rho = -0.152, p = 0.000582
+THCA TNFRSF14 rho = -0.031, p = 0.492
+THCA TNFRSF17 rho = -0.18, p = 4.77e-05
+THCA TNFRSF18 rho = -0.254, p = 7.03e-09
+THCA TNFRSF25 rho = -0.033, p = 0.461
+THCA TNFRSF4 rho = 0.148, p = 0.000805
+THCA TNFRSF8 rho = -0.044, p = 0.326
+parse error THCA+TNFRSF9.jpg
+THCA TNFRSF9 None
+THCA TNFSF13 rho = 0.075, p = 0.092
+parse error THCA+TNFSF13B.jpg
+THCA TNFSF13B None
+THCA TNFSF15 rho = -0.166, p = 0.000167
+THCA TNFSF18 rho = -0.26, p = 2.84e-09
+THCA TNFSF4 rho = -0.093, p = 0.0363
+THCA TNFSF9 rho = -0.33, p = 2.79e-14
+THCA ULBP1 rho = -0.011, p = 0.813
+UCEC C10orf54 0.04, p-2.5CSMD2 ex-5.00.353rho
+UCEC CD27 rho = 0.047, p = 0.278
+UCEC CD276 CSMD2 ex0.118, p = 0.00591rho
+UCEC CD28 rho = 0.045, p = 0.296
+UCEC CD40 rho = -0.06, p = 0.165
+UCEC CD40LG rho = 0.142, p = 0.000895.0
+UCEC CD48 rho = -0.004, p = 0.935.0
+UCEC CD70 rho = 0.092, p = 0.0317
+UCEC CD80 rho = -0.057, p = 0.183
+UCEC CD86 rho = -0.061, p = 0.158
+UCEC CXCL12 rho = 0.165, p = 0.00011
+UCEC CXCR4 rho = 0.059, p = 0.171
+parse error UCEC+ENTPD1.jpg
+UCEC ENTPD1 None
+UCEC HHLA2 rho = 0.231, p = 5.4e-08
+UCEC ICOS rho = -0.009, p = 0.84
+UCEC ICOSLG rho = -0.08, p = 0.0603
+UCEC IL2RA rho = 0.049, p = 0.25
+UCEC IL6 rho = 0.037, p = 0.39-5.0
+UCEC IL6R 0.0-2.5CSMD2_exrho = 0.062, p-5.0
+UCEC KLRC1 rho = -0.038, p = 0.381-5.0 -2.5
+UCEC KLRK1 rho = -0.006, p = 0.8865.0
+parse error UCEC+LTA.jpg
+UCEC LTA None
+UCEC MICB rho = 0.025, p = 0.566
+UCEC NT5E rho = 0.303, p = 6.62e-135.0
+UCEC PVR rho = -0.108, p = 0.0118
+UCEC RAET1E rho = 0.117, p = 0.00601
+UCEC TMEM173 rho = 0.094, p = 0.0289
+UCEC TMIGD2 rho = -0.009, p = 0.837
+UCEC TNFRSF13B rho = 0.084, p = 0.0511
+UCEC TNFRSF13C rho = -0.103, p = 0.0159
+parse error UCEC+TNFRSF14.jpg
+UCEC TNFRSF14 None
+UCEC TNFRSF17 rho = 0.023, p = 0.5945.0
+parse error UCEC+TNFRSF18.jpg
+UCEC TNFRSF18 None
+parse error UCEC+TNFRSF25.jpg
+UCEC TNFRSF25 None
+parse error UCEC+TNFRSF4.jpg
+UCEC TNFRSF4 None
+UCEC TNFRSF8 rho = 0.072, p = 0.092 5.0
+UCEC TNFRSF9 rho = 0.048, p = 0.259
+UCEC TNFSF13 rho = 0.038, p = 0.3775.0
+UCEC TNFSF13B rho = -0.048, p = 0.265
+parse error UCEC+TNFSF14.jpg
+UCEC TNFSF14 None
+UCEC TNFSF15 rho = 0.138, p = 0.00126 5.0
+UCEC TNFSF4 rho = 0.029, p = 0.503
+UCEC TNFSF9 rho = 0.024, p = 0.576 5.0
+UCEC ULBP1 0.0CSMD2 ex-2.5rho = -0.031, p
+UCS C10orf54 rho = 0.024, p = 0.862
+UCS CD27 rho = -0.158, p = 0.239
+UCS CD276 rho = 0.049, p = 0.716
+UCS CD28 rho = 0.092, p = 0.495
+UCS CD40 rho = 0.143, p = 0.286
+UCS CD40LG rho = -0.038, p = 0.777
+UCS CD48 rho = 0.076, p = 0.572
+UCS CD70 rho = -0.094, p = 0.487
+UCS CD80 rho = 0.048, p = 0.721
+UCS CD86 rho = -0.025, p = 0.853
+UCS CXCL12 rho = 0.104, p = 0.442
+UCS CXCR4 rho = 0.181, p = 0.176
+UCS ENTPD1 rho = 0.042, p = 0.754
+UCS HHLA2 rho = 0.137, p = 0.31
+UCS ICOS rho = -0.082, p = 0.544
+UCS ICOSLG rho = -0.048, p = 0.725
+UCS IL2RA rho = 0.039, p = 0.771
+UCS IL6 rho = 0.137, p = 0.309
+UCS IL6R rho = 0.223, p = 0.0947
+UCS KLRK1 rho = -0.172, p = 0.199
+UCS LTA rho = 0.015, p = 0.909
+UCS MICB rho = -0.225, p = 0.093
+UCS NT5E rho = -0.126, p = 0.349
+UCS PVR rho = -0.321, p = 0.0152
+UCS RAET1E rho = -0.084, p = 0.532
+UCS TMEM173 rho = 0.048, p = 0.724
+UCS TMIGD2 rho = -0.211, p = 0.115
+UCS TNFRSF13C rho = 0.257, p = 0.0536
+UCS TNFRSF14 rho = -0.191, p = 0.153
+UCS TNFRSF17 rho = 0.06, p = 0.657
+UCS TNFRSF18 rho = -0.316, p = 0.0169
+UCS TNFRSF25 rho = -0.17, p = 0.207
+UCS TNFRSF4 rho = -0.124, p = 0.356
+UCS TNFRSF8 rho = 0.094, p = 0.487
+UCS TNFRSF9 rho = 0.017, p = 0.901
+UCS TNFSF13 rho = -0.088, p = 0.516
+UCS TNFSF13B rho = -0.009, p = 0.946
+UCS TNFSF15 rho = 0.312, p = 0.0187
+UCS TNFSF4 rho = 0.304, p = 0.0217
+UCS TNFSF9 rho = -0.058, p = 0.668
+UCS ULBP1 rho = -0.127, p = 0.345
+UVM C10orf54 rho = 0.1, p = 0.379
+UVM CD27 rho = 0.07, p = 0.538
+UVM CD276 rho = 0.06, p = 0.596
+UVM CD28 rho = 0.251, p = 0.0252
+UVM CD40 rho = -0.109, p = 0.333
+UVM CD48 rho = 0.043, p = 0.704
+UVM CD70 rho = 0.059, p = 0.602
+UVM CD86 rho = 0.12, p = 0.287
+UVM CXCL12 rho = 0.226, p = 0.0437
+UVM CXCR4 rho = 0.23, p = 0.0402
+UVM ENTPD1 rho = -0.358, p = 0.00118
+UVM ICOS rho = 0.094, p = 0.408
+UVM ICOSLG rho = -0.237, p = 0.0344
+UVM IL2RA rho = 0.28, p = 0.0122
+UVM IL6R rho = -0.036, p = 0.748
+UVM KLRK1 rho = 0.188, p = 0.0957
+UVM LTA rho = -0.01, p = 0.933
+UVM MICB rho = -0.142, p = 0.21
+UVM NT5E rho = 0.095, p = 0.402
+UVM PVR rho = -0.227, p = 0.0429
+UVM TMEM173 rho = 0.17, p = 0.131
+UVM TNFRSF14 rho = 0.276, p = 0.0134
+UVM TNFRSF18 rho = 0.137, p = 0.224
+UVM TNFRSF25 rho = 0.3, p = 0.0071
+UVM TNFRSF4 rho = -0.04, p = 0.724
+UVM TNFRSF8 rho = 0.095, p = 0.4
+UVM TNFRSF9 rho = 0.112, p = 0.323
+UVM TNFSF13 rho = -0.185, p = 0.101
+UVM TNFSF13B rho = 0.128, p = 0.258
+UVM TNFSF4 rho = 0.113, p = 0.318
+UVM TNFSF9 rho = 0.056, p = 0.619
+UVM ULBP1 rho = 0.168, p = 0.137
+BLCA C10orf54 rho = 0.093, p = 0.0604
+BLCA CD276 rho = 0.334, p = 5.42e-12
+BLCA CD48 rho = 0.34, p = 2.13e-12
+BLCA CD80 rho = 0.359, p = 9.34e-14
+BLCA CD86 2.2e-16
+BLCA IL6R 9
+BLCA KLRC1 rho = 0.079, p = 0.109
+BLCA LTA 6
+BLCA RAET1E rho = -0.071, p = 0.15
+BLCA TNFRSF14 p = 0.162
+BLCA TNFRSF8 2.2e-16
+BLCA TNFSF15 0.012, p = 0.805
+BLCA TNFSF4 2.2e-16
+BRCA C10orf54 rho = 0.005, p = 0.878
+BRCA CD27 p = 0.817
+BRCA CD28 rho = 0.153, p = 3.44e-07
+BRCA CD86 rho = 0.243, p = 3.89e-16
+BRCA CXCL12 rho = 0.3, p = 3.77e-25
+BRCA KLRC1 rho = -0.044, p = 0.148
+BRCA PVR 0.133, p = 9.45e-06
+BRCA TNFRSF14 rho = -0.249, p = 5.94e-17
+BRCA TNFRSF4 rho = 0.079, p = 0.009
+BRCA TNFSF13 rho = -0.127, p = 2.48e-05
+BRCA TNFSF13B rho = 0.303, p < 2.2e-16
+BRCA TNFSF9 2.2e-16
+BRCA ULBP1 rho = 0.381, p < 2.2e-16
+CESC CD27 rho = 0.068, p = 0.238
+CESC CD28 rho = 0.176, p = 0.00197
+CESC CD40 rho = 0.075, p = 0.188
+CESC CD48 rho= 0.053, p = 0.359
+CESC ENTPD1 rho = 0.294, p = 1.81e-07
+CESC ICOSLG rho = 0.002, p = 0.969
+CESC PVR 2
+CESC TNFRSF13B rho = 0.112, p = 0.0509
+CESC TNFRSF14 p = 0.869
+CESC ULBP1 rho = -0.025, p = 0.661
+COAD CD28 rho = 0.31, p = 1.36e-11
+COAD CD40 rho = 0.368, p = 3.3e-16
+COAD CD48 rho = 0.278, p = 1.54e-09
+COAD IL6R rho = 0.216, p = 3.13e-06
+COAD KLRC1 rho = 0.045, p = 0.337
+COAD KLRK1 rho = 0.149, p = 0.0014
+COAD NT5E rho = -0.085, p = 0.0693
+COAD TNFRSF13B rho = 0.208, p = 7.02e-06
+COAD TNFRSF25 p = 0.844
+COAD TNFRSF8 2.2e-16
+COAD TNFSF13B 2.2e-16
+COAD TNFSF15 rho = 0.054, p = 0.245
+COAD TNFSF9 rho = 0.045, p = 0.331
+ESCA CD70 rho = 0.161, p = 0.0283
+ESCA LTA rho = 0.046, p = 0.532
+ESCA TNFRSF4 rho = 0.233, p = 0.00144
+GBM CD276 rho = 0.085, p = 0.276
+GBM CXCR4 rho = -0.365, p = 1.61e-06
+GBM IL6 rho = -0.044, p = 0.573
+GBM IL6R 9
+GBM TNFSF14 rho = 0.054, p = 0.49
+HNSC CD276 rho = 0.315, p = 2.32e-13
+HNSC CD40 rho = 0.031, p = 0.486
+HNSC CD40LG rho = 0.068, p = 0.119
+HNSC CD48 rho = 0.005, p = 0.907
+HNSC IL6R rho = 0.276, p = 1.7e-10
+HNSC LTA 6
+HNSC MICB rho = -0.021, p = 0.625
+HNSC TNFRSF13B rho = -0.025, p = 0.562
+HNSC TNFRSF13C rho = -0.143, p = 0.00108
+HNSC TNFRSF17 rho = -0.005, p = 0.912
+HNSC TNFRSF25 rho = -0.267, p = 6.81e-10
+HNSC TNFRSF9 rho = 0.32, p = 8.44e-14
+KIRC CD40LG rho = 0.06, p = 0.17
+KIRC PVR rho = -0.097, p = 0.0256
+KIRC TMEM173 rho = 0.156, p = 0.000305
+KIRC TNFRSF18 rho = -0.035, p = 0.416
+KIRC TNFSF14 rho = -0.02, p = 0.642
+KIRC TNFSF15 rho = 0.042, p = 0.336
+KIRP CD28 rho = 0.077, p = 0.19
+KIRP CD48 rho = 0.026, p = 0.657
+KIRP IL2RA 1
+KIRP MICB rho = 0.178, p = 0.00237
+KIRP TNFSF13B rho = 0.261, p = 6.89e-06
+LGG C10orf54 0.067, p = 0.125
+LGG CD276 rho = 0.148, p = 0.000662
+LGG TNFRSF14 rho = -0.304, p = 1.16e-12
+LIHC CD28 p = 0.578
+LIHC CD80 0.027, p = 0.599
+LIHC TNFSF13 0.175, p = 7e-04
+LUAD CD276 rho = 0.319, p = 1.43e-13
+LUAD CD70 0.182, p = 3.31e-05
+LUAD CD80 rho = 0.195, p = 7.98e-06
+LUAD ENTPD1 <2.2e-16
+LUAD ICOS rho = 0.158, p = 0.00032
+LUAD IL2RA 5
+LUAD IL6R 9
+LUAD TNFRSF14 -0.004, p = 0.92
+LUAD TNFRSF25 rho = 0.152, p = 0.000533
+LUAD TNFSF4 2.2e-16
+LUSC CD28 2.2e-16
+LUSC CD40LG p = 1.14e-11
+LUSC CD80 rho = 0.319, p = 3.39e-13
+LUSC CXCR4 rho = 0.298, p = 1.3e-11
+LUSC ICOSLG rho = 0.345, p = 2.32e-15
+LUSC TNFRSF8 2.2e-16
+LUSC TNFSF13 rho = 0.176, p = 7.51e-05
+LUSC TNFSF14 rho = 0.287, p = 6.71e-11
+OV CD80 rho = 0.152, p = 0.00766
+PCPG TNFSF9 0.053, p = 0.476
+PRAD CD27 rho = -0.01, p = 0.831
+PRAD CD48 rho = -0.041, p = 0.361
+PRAD CXCR4 0.016, p = 0.717
+PRAD ICOSLG -0.04, p = 0.371
+PRAD IL6 0.01, p = 0.824
+PRAD IL6R 9
+SARC CD27 rho = -0.065, p = 0.294
+SARC CD28 rho = -0.036, p = 0.562
+SARC IL6R 9
+SARC TMEM173 rho = -0.141, p = 0.0222
+SKCM C10orf54 rho = 0.357, p = 1.59e-15
+SKCM CD48 rho = 0.215, p = 2.45e-06
+SKCM CXCR4 0.298, p = 4.84e-11
+SKCM KLRK1 0.131, p = 0.00445
+SKCM PVR rho = -0.072, p = 0.118
+SKCM TMIGD2 rho = 0.243, p = 9.65e-08
+STAD CD40LG 0.115, p = 0.019
+STAD KLRC1 0.008, p = 0.878
+STAD TNFRSF9 rho = 0.174, p = 0.00038
+STAD TNFSF13B rho = 0.154, p = 0.00163
+STAD TNFSF15 rho = 0.091, p = 0.0635
+TGCT TNFSF13 -0.191, p = 0.0171
+THCA C10orf54 0.041, p = 0.356
+THCA CD70 rho = -0.307, p = 1.83e-12
+THCA ICOS rho = -0.221, p = 5.25e-07
+THCA LTA rho = -0.236, p = 7.51e-08
+THCA TNFRSF9 rho = -0.192, p = 1.32e-05
+THCA TNFSF13B rho = -0.244, p = 2.65e-08
+UCEC ENTPD1 rho = 0.021, p = 0.626
+UCEC LTA rho = 0.026, p = 0.548
+UCEC TNFRSF14 p = 0.663
+UCEC TNFRSF18 rho = 0.033, p = 0.438
+UCEC TNFRSF25 rho = 0.05, p = 0.239
+UCEC TNFRSF4 rho = 0.07, p = 0.104
+UCEC TNFSF14 rho = 0.262, p = 5.51e-10
